@@ -1,6 +1,6 @@
 
 
-public class Recipt { public static void main(String[] args) {
+public class Receipt { public static void main(String[] args) {
 	String item = "Coffee";
 	int quantity = 2;
 	double price = 3.50;

@@ -1,4 +1,4 @@
-# Recipt Project
+# Receipt Project
 
 This is my Java project where I created a simple program to calculate total price of items.
 
